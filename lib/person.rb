@@ -80,5 +80,3 @@ end
 
 codey = Person.new("codey")
 brenden = Person.new("Brenden")
-
-binding.pry 
